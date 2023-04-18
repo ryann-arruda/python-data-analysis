@@ -18,6 +18,15 @@ For this project, we used a dataset about the results of international football 
 2. Explore the dataset using statistical techniques;
 3. Answer the questions raised using the chosen dataset.
 
+## Questions
+
+1. Qual o time que mais fez goals em pênaltis? 
+2. Qual a taxa de goals por tempo?
+3. Qual time mais venceu em disputas de pênaltis? 
+4. Qual a influência de jogar em casa no resultado final?
+5. Qual time possui o melhor aproveitamento ao longo do tempo?
+6. Qual o aproveitamento dos times em partidas oficiais?
+
 ## References
 
 * Class lectures (Professor Yuri Malheiros)

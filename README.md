@@ -20,11 +20,11 @@ For this project, we used a dataset about the results of international football 
 
 ## Questions
 
-1. What is the team that has scored the most penalty goals? 
-2. What is the rate of goals per time?
+1. What is the penalty goal rate per year? 
+2. What is the rate of goals scored per minute of the match?
 3. Which team has won the most penalty shootouts? 
 4. What is the influence of playing at home on the final result?
-5. Which team has the best performance over time?
+5. What are the best teams historically?
 6. What is the performance of teams in official matches?
 
 ## References

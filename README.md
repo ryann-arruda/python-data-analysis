@@ -20,12 +20,12 @@ For this project, we used a dataset about the results of international football 
 
 ## Questions
 
-1. Qual o time que mais fez goals em pênaltis? 
-2. Qual a taxa de goals por tempo?
-3. Qual time mais venceu em disputas de pênaltis? 
-4. Qual a influência de jogar em casa no resultado final?
-5. Qual time possui o melhor aproveitamento ao longo do tempo?
-6. Qual o aproveitamento dos times em partidas oficiais?
+1. What is the penalty goal rate per year? 
+2. What is the rate of goals scored per minute of the match?
+3. Which team has won the most penalty shootouts? 
+4. What is the influence of playing at home on the final result?
+5. What are the best teams historically?
+6. What is the performance of teams in official matches?
 
 ## References
 
